@@ -146,52 +146,52 @@ INSERT INTO `shippers`
 		,1010000,1020000,'2019-01-01',100,'Đây là phiển bản cải tiến của mẫu Clutch cũ, với phiên bản mới này bạn có thể đựng được rất nhiều vận dụng chỉ trong một chiếc túi da nhỏ gọn.
 		Đặc biệt: bên trong có ngăn có thể tách rời ra, sử dụng khi bạn muốn cần nhiều không gian để đồ hơn thì có thể tháo ra','CATE_01',11,1),
 		('PD_02','BAO DA ĐỰNG GIẤY ĐĂNG KIỂM XE','Da bò','Image/Product/Bao-da-dang-kiem-xe-1.png|Image/Product/Bao-da-dang-kiem-xe-2.png|Image/Product/Bao-da-dang-kiem-xe-3.png|Image/Product/Bao-da-dang-kiem-xe-4.png',
-        450000,495000,'2019-01-01',100,'Sử dụng chất liệu da bò cao cấp, bề mặt mềm mại, được xử lý cẩn thận càng bóng mịn theo thời gian sử dụng. Sản phẩm được may thủ cộng tỉ mỉ và tinh xảo','CATE_02',15,1),
-        ('PD_03','DÂY ĐỒNG HỒ DA CÁ SẤU','Da cá sấu','Image/Product/2Da-ca-sau-1.png|Image/Product/2Da-ca-sau-2.png|Image/Product/Da-ca-sau-3.png|Image/Product/Da-ca-sau-4.png|Image/Product/Da-ca-sau-5.png',
-        1425000,1485000,'2019-01-01',100,'','CATE_03',11,1),
+        450000,495000,'2019-01-01',130,'Sử dụng chất liệu da bò cao cấp, bề mặt mềm mại, được xử lý cẩn thận càng bóng mịn theo thời gian sử dụng. Sản phẩm được may thủ cộng tỉ mỉ và tinh xảo','CATE_02',15,1),
+        ('PD_03','DÂY ĐỒNG HỒ DA CÁ SẤU','Da cá sấu ','Image/Product/2Da-ca-sau-1.png|Image/Product/2Da-ca-sau-2.png|Image/Product/Da-ca-sau-3.png|Image/Product/Da-ca-sau-4.png|Image/Product/Da-ca-sau-5.png',
+        1425000,1485000,'2019-01-01',160,'Phần da cá sấu được lựa chọn kĩ càng và sản xuất hoàn toàn handmade để đảm bảo chất lượng cho mỗi dây đồng hồ. Có thể thay cho Apple Watch','CATE_03',11,1),
         ('PD_04','PASSPORT VINTAGE','Da bò','Image/Product/PASSPORT-VINTAGE-1.png|Image/Product/PASSPORT-VINTAGE-2.png|Image/Product/PASSPORT-VINTAGE-3.png',
-        290000,299000,'2019-01-01',100,'Chi tiết sản phẩm: Chất liệu: Da bò cao cấp 100% Thiết kế: 2 Ngăn chính cực rộng và 4 ngăn thẻ ATM Được thiết kế và sản xuất hoàn toàn thủ công bởi Chúng tôi Màu: Nâu','CATE_02',19,1),
+        290000,299000,'2019-01-01',140,'Chi tiết sản phẩm: Chất liệu: Da bò cao cấp 100% Thiết kế: 2 Ngăn chính cực rộng và 4 ngăn thẻ ATM Được thiết kế và sản xuất hoàn toàn thủ công bởi Chúng tôi Màu: Nâu','CATE_02',19,1),
         ('PD_05','BAO DA PASSPORT CHUẨN','Da bò','Image/Product/BAO-DA-PASSPORT-1.png|Image/Product/BAO-DA-PASSPORT-2.png|Image/Product/BAO-DA-PASSPORT-3.png|Image/Product/BAO-DA-PASSPORT-4.png|Image/Product/BAO-DA-PASSPORT-5.png',
-        290000,299000,'2019-01-01',100,'Khi du lịch nước ngoài, hộ chiếu (Passport) là vật quan trọng nhất. Vì thế hãy bảo vệ và nâng niu nó bằng 1 chiếc ví đựng Passport Handmade này nhé','CATE_02',23,1),
+        290000,299000,'2019-01-01',210,'Khi du lịch nước ngoài, hộ chiếu (Passport) là vật quan trọng nhất. Vì thế hãy bảo vệ và nâng niu nó bằng 1 chiếc ví đựng Passport Handmade này nhé','CATE_02',23,1),
         ('PD_06','CARDHOLDER - VÍ CARDHOLDER','Da bò','Image/Product/CARDHOLDER-1.png|Image/Product/CARDHOLDER-2.png|Image/Product/CARDHOLDER-3.png|Image/Product/CARDHOLDER-4.png|Image/Product/CARDHOLDER-5.png|Image/Product/CARDHOLDER-6.png',
-        320000,350000,'2019-01-01',100,'Thiết kế nhỏ gọn, chuyên để đựng namecard, thẻ. Phù hợp với người thường xuyên phải mang nhiều thẻ, danh thiếp bên người.','CATE_02',127,1),
+        320000,350000,'2019-01-01',110,'Thiết kế nhỏ gọn, chuyên để đựng namecard, thẻ. Phù hợp với người thường xuyên phải mang nhiều thẻ, danh thiếp bên người.','CATE_02',127,1),
         ('PD_07','VÍ SỌC ĐÔI','Da bò Pullup','Image/Product/VI-SOC-DOI-1.png|Image/Product/VI-SOC-DOI-2.png|Image/Product/VI-SOC-DOI-3.png|Image/Product/VI-SOC-DOI-4.png|Image/Product/VI-SOC-DOI-5.png',
-        420000,450000,'2019-01-01',100,'Chất liệu da bò Pullup, thiết kế hiện đại, bỏ vừa cmnd, giấy tờ xe.','CATE_02',67,1),
+        420000,450000,'2019-01-01',180,'Chất liệu da bò Pullup, thiết kế hiện đại, bỏ vừa cmnd, giấy tờ xe.','CATE_02',67,1),
         ('PD_08','VÍ GO-MINI','Da bò','Image/Product/GO-MINI-1.png|Image/Product/GO-MINI-2.png|Image/Product/GO-MINI-3.png|Image/Product/GO-MINI-4.png|Image/Product/GO-MINI-5.png',
-        215000,225000,'2019-01-01',100,'Thiết kế đơn giản, nhỏ gọn cầm vừa lòng bàn tay có thể dễ dàng bỏ túi trước áo hoặc quần.','CATE_02',45,1),
+        215000,225000,'2019-01-01',200,'Thiết kế đơn giản, nhỏ gọn cầm vừa lòng bàn tay có thể dễ dàng bỏ túi trước áo hoặc quần.','CATE_02',45,1),
         ('PD_09','BAO DA MACBOOK HANDMADE','Da bò','Image/Product/BAO-DA-MACBOOK-HANDMADE-1.png|Image/Product/BAO-DA-MACBOOK-HANDMADE-2.png|Image/Product/BAO-DA-MACBOOK-HANDMADE-3.png|Image/Product/BAO-DA-MACBOOK-HANDMADE-4.png|Image/Product/BAO-DA-MACBOOK-HANDMADE-5.png|Image/Product/BAO-DA-MACBOOK-HANDMADE-6.png'
-		,705000,715000,'2019-01-01',100,' Chất liệu da bò thật 100% - Bên trong lót 1 lớp nhung mềm  - Nắp có gắn nam châm hít chắc chắn - Có đủ loại cho các dòng MACBOOK 11, 12, 13 & 15 inch. - 3 màu: Đen / Vàng bò / Xanh dương','CATE_01',34,1),
+		,705000,715000,'2019-01-01',250,' Chất liệu da bò thật 100%  Bên trong lót 1 lớp nhung mềm   Nắp có gắn nam châm hít chắc chắn  Có đủ loại cho các dòng MACBOOK 11, 12, 13 & 15 inch.  3 màu: Đen / Vàng bò / Xanh dương','CATE_01',34,1),
         ('PD_10','MESSENGER BAG 01 - TÚI DA ĐEO CHÉO 01','Da bò','Image/Product/MESSENGER-BAG-01-1.png|Image/Product/MESSENGER-BAG-01-2.png|Image/Product/MESSENGER-BAG-01-3.png|Image/Product/MESSENGER-BAG-01-4.png'
-		,1850000,1950000,'2019-01-01',100,'Chất liệu: Da bò thật 100%','CATE_01',345,1),
+		,1850000,1950000,'2019-01-01',140,'Chất liệu: Da bò thật 100% Sử dụng: Đựng Ipad, Túi đeo chéo, Túi du lịch  Cam kết: Chúng tôi sẽ hoàn tiền lại nếu túi không phải là da và không giống như hình chụp.','CATE_01',345,1),
         ('PD_11','ZIP AROUND CLUTCH','Da bò','Image/Product/ZIP-AROUND-CLUTCH-1.png|Image/Product/ZIP-AROUND-CLUTCH-2.png|Image/Product/ZIP-AROUND-CLUTCH3.png|Image/Product/ZIP-AROUND-CLUTCH4.png|Image/Product/ZIP-AROUND-CLUTCH5.png|Image/Product/ZIP-AROUND-CLUTCH6.png|Image/Product/ZIP-AROUND-CLUTCH7.png'
-		,1150000,1250000,'2019-01-01',100,'Chất liệu: Da bò thật 100%','CATE_01',122,1),
+		,1150000,1250000,'2019-01-01',190,'Chất liệu: Da bò thật 100%  - Công dụng: đựng vừa Ipad air, Ipad mini, các loại tablet dưới 7.9 inch, điện thoại, sạc dự phòng, bút, thẻ visa, tiền mặt, giấy tờ...','CATE_01',122,1),
         ('PD_12','CLUTCH BOSSED','Da bò','Image/Product/CLUTCH-BOSSED-1.png|Image/Product/CLUTCH-BOSSED-2.png|Image/Product/CLUTCH-BOSSED-3.png|Image/Product/CLUTCH-BOSSED-4.png|Image/Product/CLUTCH-BOSSED-5.png'
-		,1010000,1020000,'2019-01-01',100,'Chất liệu: Da bò thật 100%','CATE_01',678,1),
+		,1010000,1020000,'2019-01-01',255,'Hãy thử tưởng tượng tất cả các vận dụng: Ipad, điện thoại, bút, sạc đa năng, thẻ ATM, tiền mặt... đều có thể bỏ gọn gàng trong chiếc CLUTCH này, quá tiện phải không nào? Chất liệu: Da bò thật 100%','CATE_01',678,1),
         ('PD_13','CLUTCH DA','Da bò','Image/Product/CLUTCH-1.png|Image/Product/CLUTCH-2.png|Image/Product/CLUTCH-3.png|Image/Product/CLUTCH-4.png|Image/Product/CLUTCH-5.png|Image/Product/CLUTCH-6.png|Image/Product/CLUTCH-7.png'
-		,840000,850000,'2019-01-01',100,'Chất liệu: Da bò thật 100%','CATE_01',150,1),
+		,840000,850000,'2019-01-01',170,'Hãy thử tưởng tượng tất cả các vận dụng: Ipad, điện thoại, bút, sạc đa năng, thẻ ATM, tiền mặt... đều có thể bỏ gọn gàng trong chiếc CLUTCH này, quá tiện phải không nào? Khi bạn đi cafe, đi hội họp, đi chơi... chỉ cần cầm tay chiếc CLUTCH này đã đủ các phụ kiện cần thiết, đặc biệt nó còn bỏ vừa trong cốp xe máy nữa Chất liệu: Da bò thật 100%','CATE_01',150,1),
         ('PD_14','TÚI XÁCH DA ĐA NĂNG','Da bò','Image/Product/Tui-xach-da-da-nang-1.png|Image/Product/Tui-xach-da-da-nang-2.png|Image/Product/Tui-xach-da-da-nang-3.png|Image/Product/Tui-xach-da-da-nang-4.png|Image/Product/Tui-xach-da-da-nang-5.png'
-		,3940000,3950000,'2019-01-01',100,'Chất liệu: Chất liệu da bò thật 100% Màu: Nâu Công dụng: đựng vừa các loại macbook 13 trở xuống, thẻ, bút, tiền mặt, hộ chiếu, điện thoại...','CATE_01',444,1),
+		,3940000,3950000,'2019-01-01',235,'Chất liệu: Chất liệu da bò thật 100% Màu: Nâu Công dụng: đựng vừa các loại macbook 13 trở xuống, thẻ, bút, tiền mặt, hộ chiếu, điện thoại...','CATE_01',444,1),
         ('PD_15','THREEFOLD CLUTCH','Da bò','Image/Product/THREEFOLD-CLUTCH-1.png|Image/Product/THREEFOLD-CLUTCH-2.png|Image/Product/THREEFOLD-CLUTCH-3.png|Image/Product/THREEFOLD-CLUTCH-4.png|Image/Product/THREEFOLD-CLUTCH-5.png|Image/Product/THREEFOLD-CLUTCH-6.png'
-		,1440000,1450000,'2019-01-01',100,'Chất liệu: Da bò thật 100%','CATE_01',567,1),
+		,1440000,1450000,'2019-01-01',185,' Công dụng: đựng vừa Ipad air, Ipad mini, các loại tablet dưới 9.7 inches , điện thoại, sạc dự phòng, bút, thẻ visa, tiền mặt, giấy tờ.. Chất liệu: Da bò thật 100%','CATE_01',567,1),
         ('PD_16','BAO DA IPHONE','Da bò','Image/Product/BAO-DA-IPHONE-1.png|Image/Product/BAO-DA-IPHONE-2.png|Image/Product/BAO-DA-IPHONE-3.png|Image/Product/BAO-DA-IPHONE-4.png|Image/Product/BAO-DA-IPHONE-5.png|Image/Product/BAO-DA-IPHONE-6.png',
-        150000,300000,'2019-01-01',100,'','CATE_03',654,1),
+        150000,300000,'2019-01-01',275,'Thiết kế và sản xuất 100% thủ công với chất liệu da bò nhập khẩu, đảm bảo bạn sẽ quẳng ngay chiếc vỏ iPhone nhựa đến từ Trung Quốc nếu được “sờ thử” chiếc bao da iPhone này.','CATE_03',654,1),
         ('PD_17','BAO DA MACBOOK LEO','Da bò','Image/Product/BAO-DA-MACBOOK-LEO-1.png|Image/Product/BAO-DA-MACBOOK-LEO-2.png|Image/Product/BAO-DA-MACBOOK-LEO-3.png|Image/Product/BAO-DA-MACBOOK-LEO-4.png',
-        640000,650000,'2019-01-01',100,'','CATE_03',234,1),
+        640000,650000,'2019-01-01',220,'Bên trong lót 1 lớp nhung giúp bảo vệ Macbook trầy xước, không sợ bị va chạm, rơi rớt. Ngoài công dụng giúp bảo vệ Macbook như 1 chiếc bao chống xóc, bao da Macbook LEO còn có thể kê làm kệ để Macbook giúp chống mỏi lưng.','CATE_03',234,1),
         ('PD_18','DÂY DA ĐỒNG HỒ VEG Ý','Da bò','Image/Product/VEG-Y-1.png|Image/ProductVEG-Y-2.png|Image/Product/VEG-Y-3.png',
-        840500,841500,'2019-01-01',100,'Không cần phải nói gì nhiều, nhìn qua những bức ảnh quý khách cũng thấy được được vẻ đẹp hoàn hảo, tỉ mỉ qua từng đường kim mũi chỉ rồi.','CATE_03',554,1),
+        840500,841500,'2019-01-01',145,'Không cần phải nói gì nhiều, nhìn qua những bức ảnh quý khách cũng thấy được được vẻ đẹp hoàn hảo, tỉ mỉ qua từng đường kim mũi chỉ rồi.','CATE_03',554,1),
         ('PD_19','LEATHER CASE IPHONE ','Da bò','Image/Product/LEATHER-CASE-IPHONE-1.png|Image/LEATHER-CASE-IPHONE-2.png|Image/Product/LEATHER-CASE-IPHONE-3.png|Image/Product/LEATHER-CASE-IPHONE-4.png',
-        170000,180000,'2019-01-01',100,'Chất liệu: Da bò thật 100%','CATE_03',226,1),
+        170000,180000,'2019-01-01',285,'Được làm từ chất liệu da bò Napan nhập khẩu từ Ấn Độ, qua bàn tay điêu luyện của thợ thủ công Việt Nam, có thể thấy qua độ tinh xảo, tỉ mỉ của từng đường kim chỉ. Thiết kế 1 ngăn mặt sau ốp lưng có thể để Namecard, thẻ VISA, ATM... rất tiện lợi cho doanh nhân, nhân viên văn phòng, thường xuyên sử dụng namecard và thẻ. Chất liệu: Da bò thật 100%','CATE_03',226,1),
         ('PD_20','DÂY DA ĐỒNG HỒ FC','Da bò','Image/Product/FC-1.png|Image/FC-2.png|Image/Product/FC-3.png|Image/Product/FC-4.png|Image/Product/FC-5.png|Image/Product/FC-6.png',
-        930500,940500,'2019-01-01',100,'Dòng dây da đồng hồ FC mới của chúng tôi lấy ý tưởng từ hãng sản xuất đồng hồ nổi tiếng của Frédérique Constant của Thuỵ Sĩ: Luôn chính xác trong từng chi tiết nhỏ và mang lại cảm giác đẳng cấp cho người đeo.','CATE_03',90,1),
-        ('PD_21','HẮT LƯNG DA CÁ SẤU','Da cá sấu','Image/Product/VEG-Y-1.png|Image/ProductVEG-Y-2.png|Image/Product/VEG-Y-3.png',
-        1920500,1930500,'2019-01-01',100,'Chất liệu: Da cá sấu','CATE_03',78,1),
+        930500,940500,'2019-01-01',240,'Dòng dây da đồng hồ FC mới của chúng tôi lấy ý tưởng từ hãng sản xuất đồng hồ nổi tiếng của Frédérique Constant của Thuỵ Sĩ: Luôn chính xác trong từng chi tiết nhỏ và mang lại cảm giác đẳng cấp cho người đeo.','CATE_03',90,1),
+        ('PD_21','THẮT LƯNG DA CÁ SẤU','Da cá sấu','Image/Product/VEG-Y-1.png|Image/ProductVEG-Y-2.png|Image/Product/VEG-Y-3.png',
+        1920500,1930500,'2019-01-01',155,'Chỉ nhìn qua hình thôi là cũng thấy mê rồi đúng ko? Chất liệu da cá sấu thật 100%, đẹp từng góc cạnh. Chất liệu: Da cá sấu','CATE_03',78,1),
         ('PD_22','THẮT LƯNG THO-01','Da bò','Image/Product/THO-01.png|Image/THO-02.png|Image/Product/THO-03.png|Image/Product/THO-04.png|Image/Product/THO-5.png',
-        465200,475200,'2019-01-01',100,'Chất liệu: Da cá sấu , Da bò thật 100%','CATE_03',100,1),
+        465200,475200,'2019-01-01',175,'Thiết kế: May 2 lớp da bò, đường may tỉ mỉ, mặt bằng hợp kim cao cấp, không sợ bong chóc Chất liệu: Da cá sấu , Da bò thật 100%','CATE_03',100,1),
 		('PD_23','VÍ DA CÁ SẤU','Da cá sấu','Image/Product/Vi-ca-sau-1.png|Image/Product/Vi-ca-sau-2.png|Image/Product/Vi-ca-sau-3.png|Image/Product/Vi-ca-sau-4.png|Image/Product/Vi-ca-sau-5.png|Image/Product/Vi-ca-sau-6.png',
-        1400000,1500000,'2019-01-01',100,'Ví da cá sấu dùng càng bóng, đẹp chứ không bị bong, tróc xi như những loại ví làm từ nguồn da cá sấu kém chất lượng khác. (Ví da cá sấu làm từ da kém chất lượng, loại da này thường bị lỗi nên khi lên sản phẩm họ thường phun một lớp xi màu để giấu lỗi.
+        1400000,1500000,'2019-01-01',280,'Ví da cá sấu dùng càng bóng, đẹp chứ không bị bong, tróc xi như những loại ví làm từ nguồn da cá sấu kém chất lượng khác. (Ví da cá sấu làm từ da kém chất lượng, loại da này thường bị lỗi nên khi lên sản phẩm họ thường phun một lớp xi màu để giấu lỗi.
         Do đó, sau một thời gian sử dụng sản phẩm sẽ bị bay màu, tróc xi nhìn rất xấu)','CATE_02',101,1),
         ('PD_24','ESTY LONG WALLET - VÍ DÀI ESTY','Da bò','Image/Product/ESTY-LONG-WALLET-1.png|Image/Product/ESTY-LONG-WALLET-2.png',
-        560000,570000,'2019-01-01',100,'Esty Long Wallet - Ví Dài Esty','CATE_02',179,1);
+        560000,570000,'2019-01-01',285,' Đựng vừa tất cả các loại điện thoại Esty Long Wallet - Ví Dài Esty','CATE_02',179,1);
         
 INSERT INTO `promotion`
  VALUES ('PD_01',910000,'2019-01-18','2019-01-21'),
